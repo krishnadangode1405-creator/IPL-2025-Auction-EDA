@@ -135,15 +135,15 @@ IPL_2025_Auction_Master_EDA_Project.ipynb
 
 ### Team-wise Spending
 
-![Team Spending](images/team_spending.png)
+![Team Spending](images/Total Spending by Team.png)
 
 ### Top Expensive Players
 
-![Top Players](images/top_expensive_players.png)
+![Top Players](images/Top 10 Most Expensive Players.png)
 
 ### Price Distribution
 
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](images/Player type distribution.png)
 
 ---
 
