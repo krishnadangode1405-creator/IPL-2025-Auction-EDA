@@ -139,11 +139,20 @@ IPL_2025_Auction_Master_EDA_Project.ipynb
 
 ## 📌 Key Insights
 
-- Team-wise auction spending comparison
-- Highest-paid players
-- Distribution of player roles
-- Player price trends
-- Statistical summary of auction prices
+- 💰 Team spending varied significantly across franchises.
+- 🏏 A small number of players attracted exceptionally high bids.
+- 🌍 Overseas all-rounders generally received higher auction prices.
+- 📊 The auction featured a balanced mix of batsmen, bowlers, all-rounders, and wicketkeepers.
+- 📈 Visual analysis highlighted spending trends and player distribution across teams.
+
+---
+
+## 🚀 Future Improvements
+
+- Develop an interactive Power BI dashboard.
+- Build a Streamlit web application for the analysis.
+- Predict player auction prices using Machine Learning.
+- Automate data updates for future IPL auctions.
 
 ---
 
