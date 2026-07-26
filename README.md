@@ -131,6 +131,22 @@ IPL_2025_Auction_Master_EDA_Project.ipynb
 
 ---
 
+## 📷 Project Screenshots
+
+### Team-wise Spending
+
+![Team Spending](images/team_spending.png)
+
+### Top Expensive Players
+
+![Top Players](images/top_expensive_players.png)
+
+### Price Distribution
+
+![Price Distribution](images/price_distribution.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Krishna Dangode**
