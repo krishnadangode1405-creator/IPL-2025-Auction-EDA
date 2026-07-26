@@ -78,6 +78,22 @@ The notebook contains visualizations such as:
 
 ---
 
+## 📷 Project Screenshots
+
+### Team-wise Spending
+
+![Team Spending](images/Total_Spending_by_Team.png)
+
+### Top Expensive Players
+
+![Top Players](images/Top_10_Most_Expensive_Players.png)
+
+### Price Distribution
+
+![Price Distribution](images/Player_type_distribution.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
